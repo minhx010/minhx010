@@ -9,6 +9,7 @@
 
 ## 👾 Project
 - [LeaPP: Learning Pathways to Polymorphs](https://zenodo.org/records/14976435)
+  - [Paper](https://doi.org/10.1021/acs.jctc.5c00097)
 
 ## 🧰 Languages and Tools
 - Python, PyTorch
