@@ -8,11 +8,11 @@
 - [LinkedIn](linkedin.com/in/porhouy-minh-196a5426b)
 
 ## 👾 Project
-- [LeaPP: Learning Pathways to Polymorphs](https://doi.org/10.5281/zenodo.1497643)
+- [LeaPP: Learning Pathways to Polymorphs](https://zenodo.org/records/14976435)
 
 ## 🧰 Languages and Tools
 - Python, PyTorch
-- Molecular Dynamics Simulations: GROMACS
+- Molecular Dynamics Simulations: GROMACS, PLUMED
 - Enhanced Sampling Simulations: Path Sampling (TIS, RETIS, infRETIS)
 - Visualization: VMD
 
