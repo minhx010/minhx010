@@ -5,7 +5,7 @@
   
 ## 📫 How to reach me
 - Email: minhx010@umn.edu
-- [LinkedIn](linkedin.com/in/porhouy-minh-196a5426b)
+- [LinkedIn](linkedin.com/in/porhouy-minh)
 
 ## 👾 Project
 - [LeaPP: Learning Pathways to Polymorphs](https://zenodo.org/records/14976435)
