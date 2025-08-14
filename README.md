@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## 🤓 About Me
 - 👋 Hi, I’m Porhouy (PH) Minh.
 - I am currently a PhD candidate at the University of Minnesota, working with Dr. Sarupria (SAMPEL Lab).
 - I am passionate about uncovering the kinetics and mechanisms of crystal nucleation, using advanced simulation techniques such as path sampling. My work spans fundamental systems, such as Lennard-Jones nucleation, to more practical systems, like salt nucleation. By integrating physics-informed machine learning, I aim to deepen our understanding of nucleation mechanisms and contribute to advancements in materials science.
